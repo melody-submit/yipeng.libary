@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="libary.yipeng.com.yipenglibary">
+    package="com.yipeng.libary">
 
     <application
         android:allowBackup="true"

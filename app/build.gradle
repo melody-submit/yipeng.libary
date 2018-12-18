@@ -27,5 +27,8 @@ dependencies {
     })
     compile 'com.android.support:appcompat-v7:26.+'
     compile 'com.android.support.constraint:constraint-layout:1.0.0-alpha7'
+    compile 'com.squareup.okio:okio:1.5.0'
+    compile 'com.squareup.okhttp3:okhttp:3.9.0'
+    compile 'com.alibaba:fastjson:1.1.56.android'
     testCompile 'junit:junit:4.12'
 }
